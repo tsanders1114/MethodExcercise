@@ -6,6 +6,7 @@ namespace MethodExcercise
     {
         static void Main(string[] args)
         {
+            //Completed Excercise
             Console.WriteLine("I want to play a game! Enter your name Now!!!");
             var userName = Console.ReadLine();
 
